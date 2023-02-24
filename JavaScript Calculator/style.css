@@ -1,5 +1,11 @@
 ul,
 li {
   list-style: none;
-  display: inline;
+  display: inline-block
+  width: 20px;
+  height: 20px
+}
+#inputNumbers {
+  display: flex;
+  border: 1px solid black;
 }
